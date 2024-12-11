@@ -8,6 +8,8 @@ In a world increasingly connected by technology, the preservation of cultural he
 
 Whether for education, travel, or personal enrichment, **Kaliatra** makes Balinese heritage accessible to the world.
 
+![splash_screen](https://github.com/user-attachments/assets/d1d93e54-ff8f-4edf-becc-8940063739ed)
+
 ---
 
 ### 👥 **Meet the Team**
