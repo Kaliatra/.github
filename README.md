@@ -68,9 +68,15 @@ Whether for education, travel, or personal enrichment, **Kaliatra** makes Baline
 
 --- 
 
-📝 **License:** Apache License 2.0
+| 🌐 **Kaliatra Repositories** | 🔗 **GitHub Links**                                     |
+|-------------------------------|--------------------------------------------------------|
+| 🤖 **Machine Learning**       | [GitHub Repo](https://github.com/Kaliatra/Machine-Learning)   |
+| ☁️ **Cloud Computing**        | [GitHub Repo](https://github.com/Kaliatra/Cloud-Computing)     |
+| 📱 **Mobile Development**     | [GitHub Repo](https://github.com/Kaliatra/Mobile-Development)  |
 
 ---
+
+🎉 *Explore our projects and contribute to preserving Balinese heritage through technology!* 🌺
 
 📚 **Made with passion by the students of Institut Teknologi dan Bisnis STIKOM Bali**
 
